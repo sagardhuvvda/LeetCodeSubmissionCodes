@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
