@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting
 |  |
 | ------- |
