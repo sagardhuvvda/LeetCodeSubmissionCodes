@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -413,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0933-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
