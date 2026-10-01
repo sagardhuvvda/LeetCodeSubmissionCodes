@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
