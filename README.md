@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2413-smallest-even-multiple) |
+| [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
 | ------- |
