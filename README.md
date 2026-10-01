@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -335,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
