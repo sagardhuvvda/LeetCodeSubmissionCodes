@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
