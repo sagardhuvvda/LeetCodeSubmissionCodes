@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
+| [3871-count-commas-in-range-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
