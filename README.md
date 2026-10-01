@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
