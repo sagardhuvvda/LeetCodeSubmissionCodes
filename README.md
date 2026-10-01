@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
