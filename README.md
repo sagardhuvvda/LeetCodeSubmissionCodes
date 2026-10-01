@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
 |  |
 | ------- |
