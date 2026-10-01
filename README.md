@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Newton's Method
 |  |
 | ------- |
