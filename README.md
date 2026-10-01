@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
