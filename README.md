@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
