@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 ## Queue
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0450-delete-node-in-a-bst) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
