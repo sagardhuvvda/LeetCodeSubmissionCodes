@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
