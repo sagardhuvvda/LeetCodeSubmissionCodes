@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
