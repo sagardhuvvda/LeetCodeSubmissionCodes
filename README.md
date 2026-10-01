@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,8 +343,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0836-rectangle-overlap) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
