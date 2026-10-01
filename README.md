@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
