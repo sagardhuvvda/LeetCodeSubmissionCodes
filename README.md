@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
