@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
