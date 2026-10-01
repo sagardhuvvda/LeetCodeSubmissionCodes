@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0450-delete-node-in-a-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
