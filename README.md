@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 ## Newton's Method
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 ## Counting
 |  |
 | ------- |
