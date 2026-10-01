@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
