@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2119-a-number-after-a-double-reversal](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2119-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
