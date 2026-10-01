@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
