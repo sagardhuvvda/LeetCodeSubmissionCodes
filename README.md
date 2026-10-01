@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 ## Queue
 |  |
 | ------- |
