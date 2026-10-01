@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3813-vowel-consonant-score](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3813-vowel-consonant-score](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3813-vowel-consonant-score) |
 ## Newton's Method
 |  |
 | ------- |
