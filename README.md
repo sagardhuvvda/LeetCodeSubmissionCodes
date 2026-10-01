@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
