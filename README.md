@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
+| [3110-score-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
