@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
