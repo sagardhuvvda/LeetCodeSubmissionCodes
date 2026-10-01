@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0520-detect-capital) |
 ## Array
 |  |
 | ------- |
