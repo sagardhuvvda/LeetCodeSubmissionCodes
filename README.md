@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0728-self-dividing-numbers) |
 ## Recursion
 |  |
 | ------- |
