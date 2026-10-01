@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
 | [4044-count-good-cyclic-rotations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4044-count-good-cyclic-rotations) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3813-vowel-consonant-score](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3813-vowel-consonant-score) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Newton's Method
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -421,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
