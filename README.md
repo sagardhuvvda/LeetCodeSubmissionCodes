@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
