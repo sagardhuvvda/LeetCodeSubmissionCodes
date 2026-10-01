@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
