@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
+| [4044-count-good-cyclic-rotations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4044-count-good-cyclic-rotations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [4044-count-good-cyclic-rotations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4044-count-good-cyclic-rotations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1480-running-sum-of-1d-array) |
+| [4044-count-good-cyclic-rotations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4044-count-good-cyclic-rotations) |
 ## Queue
 |  |
 | ------- |
