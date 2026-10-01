@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
