@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
