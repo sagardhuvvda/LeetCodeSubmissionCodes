@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1572-matrix-diagonal-sum) |
 ## Sorting
 |  |
 | ------- |
