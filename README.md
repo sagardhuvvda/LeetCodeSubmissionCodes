@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3871-count-commas-in-range-ii) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3813-vowel-consonant-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Array
 |  |
 | ------- |
