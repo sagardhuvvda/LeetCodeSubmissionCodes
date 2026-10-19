@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1331-rank-transform-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1550-three-consecutive-odds) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1331-rank-transform-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
