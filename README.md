@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [4024-nearest-available-drone](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4024-nearest-available-drone) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2007-find-original-array-from-doubled-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/3536-maximum-product-of-two-digits) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/sagardhuvvda/LeetCodeSubmissionCodes/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
